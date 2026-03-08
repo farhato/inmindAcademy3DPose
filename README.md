@@ -9,8 +9,8 @@ The goal of this assignment is to implement a point cloud registration algorithm
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/malek-wahidi/AcademyPointClouds.git
-   cd AcademyPointClouds
+   git clone https://github.com/malek-wahidi/inmindAcademy3DPose.git
+   cd inmindAcademy3DPose
    ```
 
 2. **Create your own GitHub repository and change the origin:**
